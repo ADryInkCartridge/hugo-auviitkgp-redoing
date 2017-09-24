@@ -1,4 +1,4 @@
 baseURL: "https://uncommonpleb.github.io/blog/"
 title: "My Hugo Site"
 themesDir:  "themes"
-theme:  "academic"
+theme:  "Ananke"
