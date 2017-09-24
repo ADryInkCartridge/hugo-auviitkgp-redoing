@@ -6,7 +6,7 @@ install:
   - go install github.com/gohugoio/hugo
 
 script:
-  - hugo import jekyll
+  - hugo import jekyll https://github.com/UncommonPleb/blog https://github.com/UncommonPleb/hugo-auviitkgp
 
 deploy:
   provider: pages
