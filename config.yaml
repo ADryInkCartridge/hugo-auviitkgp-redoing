@@ -1,0 +1,4 @@
+baseURL: http://hyde.getpoole.com
+disablePathToLower: true
+languageCode: en-us
+title: Hyde
