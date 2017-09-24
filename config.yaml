@@ -2,3 +2,5 @@ baseURL: https://UncommonPleb.github.io/auviitkgp-hugo/
 disablePathToLower: true
 languageCode: en-us
 title: Hugo
+themesDir: "themes"
+theme: "greyshade"
